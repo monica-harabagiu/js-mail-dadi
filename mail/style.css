@@ -38,6 +38,14 @@ input {
     font-size: .8rem;
 }
 
+.input-red {
+    border-color: red;
+}
+
+.input-green {
+    border-color: green;
+}
+
 button {
     width: 100px;
     padding: 20px;
